@@ -100,3 +100,5 @@ python3 cleanup_app_data.py --scan --force
 - **Backup mode** moves files to `~/Desktop/<AppName>_Cleanup_Backup/` so you can restore them
 - **Keychain items** are never modified programmatically — the script only reminds you to check manually
 
+## License
+MIT
